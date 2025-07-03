@@ -1,4 +1,3 @@
-
 gl.setup(NATIVE_WIDTH, NATIVE_HEIGHT)
 
 local screen1 = resource.render_child("playlist1")

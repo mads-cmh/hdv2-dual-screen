@@ -1,18 +1,17 @@
-
 {
-  "title": "HD Video Player – Dual Screen",
+  "title": "HDV2 Player – Dual Screen",
   "options": [
     {
       "name": "playlist1",
-      "label": "Playlist for Screen 1 (HDMI-1)",
+      "label": "Playlist for HDMI-1",
       "type": "files",
-      "extensions": ["mp4", "mov", "mkv"]
+      "extensions": ["mp4", "mov", "mkv", "jpg", "png"]
     },
     {
       "name": "playlist2",
-      "label": "Playlist for Screen 2 (HDMI-2)",
+      "label": "Playlist for HDMI-2",
       "type": "files",
-      "extensions": ["mp4", "mov", "mkv"]
+      "extensions": ["mp4", "mov", "mkv", "jpg", "png"]
     }
   ]
 }
