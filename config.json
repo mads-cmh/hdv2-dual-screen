@@ -1,0 +1,18 @@
+
+{
+  "title": "HD Video Player – Dual Screen",
+  "options": [
+    {
+      "name": "playlist1",
+      "label": "Playlist for Screen 1 (HDMI-1)",
+      "type": "files",
+      "extensions": ["mp4", "mov", "mkv"]
+    },
+    {
+      "name": "playlist2",
+      "label": "Playlist for Screen 2 (HDMI-2)",
+      "type": "files",
+      "extensions": ["mp4", "mov", "mkv"]
+    }
+  ]
+}
