@@ -1,7 +1,7 @@
 {
   "name": "hdv2-dual-screen",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Two armed person",
   "url": "https://github.com/YOUR_USERNAME/hdv2-dual-screen",
-  "description": "Wrapper package that runs two independent hdv2-player instances on dual HDMI outputs."
+  "desc": "Wrapper package that runs two independent hdv2-player instances on dual HDMI outputs."
 }
